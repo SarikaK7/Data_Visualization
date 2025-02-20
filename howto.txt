@@ -1,0 +1,11 @@
+create rectangles
+
+name them
+
+adjust round borders.
+
+then create plots 
+
+use bookmark in action tab.
+
+there give bookmark as profit or sales
